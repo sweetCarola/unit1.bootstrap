@@ -9,3 +9,16 @@ a {
 p{
     font-family: 'Noto Serif', serif;
 }
+
+.bg-carola{
+    background-color: #656a7b;
+}
+
+.size-title{
+    font-size: 33px;
+}
+
+.size-text{
+
+    font-size: 15px;
+}
