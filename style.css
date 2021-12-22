@@ -33,5 +33,10 @@ p{
 .text-carola1{
     font-weight: bold;
     font-family: 'Montserrat', sans-serif;
+text-decoration: none;
+}
+.button { 
+
+    text-decoration: none;
 
 }
